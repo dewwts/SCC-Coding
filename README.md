@@ -1,46 +1,48 @@
-# 🏢 Banpu Team Matching Platform
+# Banpu Team Matching Platform
 
 <div align="center">
-
-![Next.js](https://img.shields.io/badge/Next.js-15.2.4-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
+  <img src="https://www.banpu.com/favicon/share.jpg" alt="Banpu Logo" width="200"/>
+  
+  <br/>
+  
+  <img src="https://img.shields.io/badge/Next.js-15.2.4-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-5-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 </div>
 
-## 📋 Overview
+## Overview
 
 Banpu Team Matching Platform is an advanced team management and skill matching system designed to optimize team composition and enhance organizational efficiency. The platform leverages AI and data analytics to provide intelligent team building solutions.
 
-## ✨ Features
+## Features
 
-### 🏗️ Team Builder
+### Team Builder
 - Create and manage teams efficiently
 - Team member management
 - Team performance tracking
 - Historical team data analysis
 
-### 🎯 Skill Matching
+### Skill Matching
 - Employee skill assessment
 - Position-skill matching
 - Team compatibility analysis
 - Skill gap identification
 
-### 🤖 Banpu Intelligence
+### Banpu Intelligence
 - AI-powered data analysis
 - Performance metrics tracking
 - Team improvement recommendations
 - Predictive analytics
 
-### 👥 Teams Management
+### Teams Management
 - Comprehensive team overview
 - Team structure management
 - Performance monitoring
 - Team analytics dashboard
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **Next.js 15.2.4** - React framework for production
@@ -62,7 +64,7 @@ Banpu Team Matching Platform is an advanced team management and skill matching s
 - **ESLint** - Code linting
 - **TypeScript** - Static type checking
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js 18.x or later
@@ -93,7 +95,7 @@ Fill in your environment variables in `.env.local`
 pnpm dev
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── app/                    # Next.js App Router
@@ -110,7 +112,7 @@ pnpm dev
 └── styles/              # Global styles
 ```
 
-## 🔐 Security Features
+## Security Features
 
 - Supabase Authentication
 - Role-based access control
@@ -118,7 +120,7 @@ pnpm dev
 - Data validation with Zod
 - Secure environment variables
 
-## 🚀 Performance Optimizations
+## Performance Optimizations
 
 - Server-side rendering
 - Image optimization
@@ -126,7 +128,7 @@ pnpm dev
 - Caching strategies
 - Lazy loading
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -134,18 +136,11 @@ pnpm dev
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-- Project Manager - [Name]
-- Lead Developer - [Name]
-- UI/UX Designer - [Name]
-- Backend Developer - [Name]
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Next.js](https://nextjs.org/)
 - [Supabase](https://supabase.io/)
@@ -155,5 +150,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-Made with ❤️ by Banpu Team
+  <p>Made with ❤️ by Banpu Team</p>
 </div> 
