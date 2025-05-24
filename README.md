@@ -148,7 +148,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Radix UI](https://www.radix-ui.com/)
 
 ---
-
-<div align="center">
-  <p>Made with ❤️ by Banpu Team</p>
-</div> 
